@@ -1,0 +1,25 @@
+
+button{
+    border-radius: 10px !important;
+    padding: 5px 0;
+    border: none;
+    font-size: 20px;
+    font-weight: 500;
+    background-color: rgb(91, 80, 80);
+    color: white;
+
+}
+
+.form-control{
+    border: 1px solid black !important;
+    margin: 15px 0;
+    text-align: end;
+    
+}
+.form-control:focus{
+    box-shadow: none !important;
+}
+.box{
+    background-color: rgb(0, 2, 4);
+    border-radius: 5px;
+}
